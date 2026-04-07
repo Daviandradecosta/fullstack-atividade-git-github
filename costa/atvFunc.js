@@ -6,3 +6,4 @@ function perimetro(lado){
 console.log(perimetro(10));
 
 // tu e bom
+//
